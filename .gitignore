@@ -1,0 +1,6 @@
+*.db
+__pycache__
+.venv
+.idea
+/fill_database
+testa0.py
